@@ -1,0 +1,8 @@
+{
+  "name": "TestPwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "b0ff6216"
+}
